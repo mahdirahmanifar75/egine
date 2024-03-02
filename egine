@@ -30,7 +30,6 @@ go version
 ------------------------------------------------------------------
 install docker
 
-
 cd ~
 
 sudo apt-get update
